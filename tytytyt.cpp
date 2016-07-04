@@ -19,8 +19,8 @@ cout<<"h.For loop (Horizontal)"<<endl;
 cout<<"i.while loop(odd)"<<endl;
 cout<<"j.While loop (horizontal and odd)"<<endl;
 cout<<"k. Exit"<<endl;
-cout<<"enter choice:";
-cin>>p;
+//cout<<"enter choice:";
+//cin>>p;
 
 system ("cls"); 
 
